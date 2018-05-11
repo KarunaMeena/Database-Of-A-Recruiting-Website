@@ -20,32 +20,32 @@ Run the files on MySQL Workbench
 
 ![](EERProject.png)
 
-### Finding the names of all the people registered for the respective events with their Registration IDs using View
+## Finding the names of all the people registered for the respective events with their Registration IDs using View
 
 ![](images/view1.png)
 
-### Availability check on registration table using Trigger
+## Availability check on registration table using Trigger
 
 ![](images/trigger1.png)
 
-### Calculating the revenue earned by any specific event type using Stored Procedure
+## Calculating the revenue earned by any specific event type using Stored Procedure
 
 ![](images/sp1.png)
 
-### Analysis on Salary Report to find top jobs using Stored Procedure
+## Analysis on Salary Report to find top jobs using Stored Procedure
 
 ![](images/sp2.png)
 
-### User Defined Functions to do analysis of the revenue given by the advertisers
+## User Defined Functions to do analysis of the revenue given by the advertisers
 ![](images/udf1.png)
 
-### Analysis to find Eligible candidates with work authorization status
+## Analysis to find Eligible candidates with work authorization status
 ![](images/view2.png)
 
-### Trigger to update the number of applications as new applications are received
+## Trigger to update the number of applications as new applications are received
 ![](images/trigger2.png)
 
-### Analysis to find the revenue by Employer Branding 
+## Analysis to find the revenue by Employer Branding 
 
 ![](images/analysis.png)
 
