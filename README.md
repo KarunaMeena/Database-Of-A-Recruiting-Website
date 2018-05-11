@@ -6,8 +6,6 @@
 ### Implementing techniques like Stored Procedures, Triggers, Views, User Defined Functions
 ### Analysis on the database using complex queries
 
-Looking for a job is a complicated process. Many factors need to be in place for the right candidate to find the right job. It can be hard to track and analyse data that will further help the job seekers a job of their choice. Similarly, for an employer, it is difficult to attract the right employees, therefore to help the employer, the Glassdoor manages database of what Job Seekers are looking for in a company. This company aims on matching the correct employer with right employee.
-
 ## Instructions on how to open this project 
 
 Installations Required:
@@ -16,7 +14,8 @@ Installations Required:
 
 Run the files on MySQL Workbench
 
-
+ # Introduction
+Looking for a job is a complicated process. Many factors need to be in place for the right candidate to find the right job. It can be hard to track and analyse data that will further help the job seekers a job of their choice. Similarly, for an employer, it is difficult to attract the right employees, therefore to help the employer, the Glassdoor manages database of what Job Seekers are looking for in a company. This company aims on matching the correct employer with right employee.
 
 ## EER Diagram
 
