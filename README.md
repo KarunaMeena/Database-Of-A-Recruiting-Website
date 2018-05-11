@@ -16,7 +16,8 @@ Looking for a job is a complicated process. Many factors need to be in place for
 
 ## EER Diagram
 
-![eerproject](https://user-images.githubusercontent.com/32627251/39902769-b80edc3a-549d-11e8-9660-b31c9edd4062.png)
+![](EERProject.png)
+
 
 
 
